@@ -1,0 +1,12 @@
+footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  column-gap: 20px;
+  margin-top: 480px;
+}
+
+.git-logo {
+  display: flex;
+  height: 18px;
+}

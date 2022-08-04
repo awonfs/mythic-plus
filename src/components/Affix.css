@@ -1,0 +1,40 @@
+.affix-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: auto;
+    margin-top: 5px;
+    row-gap: 30px;
+}
+
+
+.affix-btn {
+    height: 40px;
+    width: 110px;
+    padding: auto;
+    border: 1px solid rgb(109, 109, 109);
+    border-radius: 5px;
+    background-color: rgb(78, 78, 78);
+    color: white;
+    font-family: inherit;
+    font-size: 20px;
+}
+
+.affix-btn:hover {
+    opacity: 90%;
+    cursor: pointer;
+    color: lightgrey;
+    transition: 0.15s;
+}
+
+.affix-name {
+    font-size: 3rem;
+}
+
+.affix-name p {
+    margin-top: 20px;
+}
+
+
+
